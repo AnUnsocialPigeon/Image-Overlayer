@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Overlayer", "Image Overlayer\Image Overlayer.csproj", "{0CA3A0FC-ABEA-4E9B-B871-FE6CE03BE8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA3A0FC-ABEA-4E9B-B871-FE6CE03BE8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA3A0FC-ABEA-4E9B-B871-FE6CE03BE8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA3A0FC-ABEA-4E9B-B871-FE6CE03BE8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA3A0FC-ABEA-4E9B-B871-FE6CE03BE8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3D0CBD-0C54-4483-BC66-803E92992E4B}
+	EndGlobalSection
+EndGlobal
